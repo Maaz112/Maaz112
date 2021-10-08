@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maaz112
+- 👋 Hi, I’m Maaz
 - 👀 I’m interested in IOS development
 - 🌱 I’m currently learning Swift, SQLite3 and CoreData
 - 💞️ I’m looking to collaborate on IOS applications
