@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maaz
 - 👀 I’m interested in IOS development
-- 🌱 I’m currently learning Swift, SQLite3 and CoreData
+- 🌱 I’m currently learning Swift, Firebase and CoreData
 - 💞️ I’m looking to collaborate on IOS applications
 - 📫 How to reach me - at maazsurti619@gmail.com
 
